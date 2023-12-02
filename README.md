@@ -4,4 +4,8 @@ Home_Work_of_GIT_and_GitHub
 
 implementation of homework
 
-implementation # 2
+!!!!  Added white GitHub !!!!!
+
+implementation # 2 in Pycharms
+
+
