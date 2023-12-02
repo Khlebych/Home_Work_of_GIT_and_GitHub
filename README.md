@@ -6,6 +6,6 @@ implementation of homework
 
 !!!!  Added white GitHub !!!!!
 
-implementation # 2 in Pycharms
+implementation # 2 in Pycharms !!!
 
 
